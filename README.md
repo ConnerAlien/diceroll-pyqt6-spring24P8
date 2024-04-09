@@ -1,1 +1,2 @@
-# diceroll-pyqt6-spring24P8
+# Dice Roll Calculator (spring 24)
+by Conner Powell
