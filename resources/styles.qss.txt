@@ -1,0 +1,12 @@
+Qwidget {
+	background-color: #001122
+	padding: 6px;
+}
+QSpinbox {
+	border: 1px solid #eee;
+	border-radius: 6px;
+}
+QPushButton {
+	background-color: #333;
+	border-radius: 6px;
+}
